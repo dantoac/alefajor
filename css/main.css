@@ -262,18 +262,3 @@ textarea {
   }
 }
 
-.box {
-  width: auto;
-  height: auto;
-  background: darkviolet;
-  color: white;
-  padding:1em;
-  display: flex;
-  font-size:1.3em;
-  justify-content: center;
-  align-items: center;
-}
-
-.box div {
-  padding: 0 2em;
-}
